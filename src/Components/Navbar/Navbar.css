@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+  
+}
+
+.navbar{
+    justify-content: space-between;
+    position: fixed;
+    z-index: 2;
+}
+
+.menu-items{
+    justify-content: space-evenly;
+  
+}
+
+.heading{
+    color: teal;
+}
+
+.active{
+    background-color: none;
+    transition: 2s
+}
+
+.active:hover{
+    background-color: teal;
+}
