@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/prunetmain/static/css/main.f5ada129.css",
-    "main.js": "/prunetmain/static/js/main.72687936.js",
+    "main.css": "/prunetmain/static/css/main.de018dde.css",
+    "main.js": "/prunetmain/static/js/main.c451da96.js",
     "static/media/pictureeight.png": "/prunetmain/static/media/pictureeight.1bb0ebca4ab3af29fb23.png",
     "static/media/picturesix.png": "/prunetmain/static/media/picturesix.cb376c89777eafd3feae.png",
     "static/media/pictureone.png": "/prunetmain/static/media/pictureone.871901817b9a3c6c32cf.png",
@@ -11,11 +11,11 @@
     "static/media/picturetwo.png": "/prunetmain/static/media/picturetwo.d70253de116f6ca7dcae.png",
     "static/media/picturefour.png": "/prunetmain/static/media/picturefour.2cdccc60ccbe8dd05dc8.png",
     "index.html": "/prunetmain/index.html",
-    "main.f5ada129.css.map": "/prunetmain/static/css/main.f5ada129.css.map",
-    "main.72687936.js.map": "/prunetmain/static/js/main.72687936.js.map"
+    "main.de018dde.css.map": "/prunetmain/static/css/main.de018dde.css.map",
+    "main.c451da96.js.map": "/prunetmain/static/js/main.c451da96.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5ada129.css",
-    "static/js/main.72687936.js"
+    "static/css/main.de018dde.css",
+    "static/js/main.c451da96.js"
   ]
 }
